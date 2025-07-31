@@ -15,7 +15,6 @@ object Third {
     val displayName1=nickName.getOrElse("No nickname")
     println(displayName1)
 
-
   }
 
 }
