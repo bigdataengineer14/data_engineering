@@ -1,3 +1,5 @@
+package Functional
+
 object Second {
   def main (args : Array [String]): Unit = {
     val x = 5

@@ -1,3 +1,5 @@
+package Functional
+
 object Third {
 
   def main (args : Array [String]): Unit = {
@@ -14,7 +16,6 @@ object Third {
     nickName=None
     val displayName1=nickName.getOrElse("No nickname")
     println(displayName1)
-
 
   }
 
