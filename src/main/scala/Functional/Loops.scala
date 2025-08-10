@@ -1,5 +1,6 @@
+package Functional
+
 object Loops {
-  import scala.collection.mutable.ArrayBuffer
 
   def main(args:Array[String]): Unit = {
     var sum=0

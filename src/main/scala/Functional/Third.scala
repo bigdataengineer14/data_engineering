@@ -1,3 +1,5 @@
+package Functional
+
 object Third {
 
   def main (args : Array [String]): Unit = {

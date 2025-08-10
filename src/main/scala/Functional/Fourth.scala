@@ -1,3 +1,5 @@
+package Functional
+
 import scala.collection.mutable.ArrayBuffer
 object Fourth {
   def main(args: Array[String]): Unit = {
